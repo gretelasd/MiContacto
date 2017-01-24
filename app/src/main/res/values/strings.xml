@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MyContacts</string>
+    <string name="hint_name">Nombre Completo</string>
+    <string name="hint_phone">Teléfono</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_contact_information">Descripción Contacto</string>
+    <string name="mi_boton">Siguiente</string>
+    <string name="mi_edicion">Editar Datos</string>
+    <string name="titulo">Confirmar Datos</string>
+    <string name="date_label_set">Fecha Nacimiento</string>
+    <string name="date_button_set">Seleccionar Fecha</string>
+    <string name="date_selected"></string>
+
+    <string name="onpause">OnPause</string>
+
+
+
+</resources>
